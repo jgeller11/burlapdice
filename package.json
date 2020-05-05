@@ -1,0 +1,13 @@
+{
+    "name": "burlapdice",
+    "version": "1.0.0",
+    "description": "a dice roller for tswassonites",
+    "main": "bot.js",
+    "author": "jjgg713",
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "discord.js": "^12.2.0",
+        "dotenv": "^8.2.0",
+        "winston": "^3.2.1"
+    }
+}
